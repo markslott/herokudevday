@@ -1,0 +1,2 @@
+Y:\demo-pgquery\obj\Debug\demo-pgquery.njsprojResolveAssemblyReference.cache
+Y:\demo-pgquery\bin\Microsoft.NodejsTools.WebRole.dll
