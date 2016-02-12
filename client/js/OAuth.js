@@ -8,7 +8,7 @@ var clientId = '3MVG9iTxZANhwHQuSJa6AuCgpr9Lz.vcz27mlkOKAvxUfaeTVplSWC7K4W.lV9qf
 */  
 
 var clientId = '3MVG98SW_UPr.JFhNAoocD_qOnG7VwSZyoAGdCBWmpXtEOuVM3EHEjs0otI_dJZYL0aBhAqLeHYMfZjonBSC_', 
-	redirectURI = "https://demo-pgquery.herokuapp.com/oauthcallback.html" ;
+	redirectURI = "https://msl-msft-demo-1.herokuapp.com/oauthcallback.html" ;
 	
 function popupCenter(url, title, w, h) { 
     var parentLeft = window.screenLeft ? window.screenLeft : window.screenX;
